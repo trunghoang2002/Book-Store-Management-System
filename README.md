@@ -17,7 +17,7 @@ This project aims to develop a comprehensive software solution for efficiently m
 2. Sales person
 3. Stocker
 ![image](https://github.com/trunghoang2002/pbl3/assets/75106240/b8d91d48-160c-41e2-8972-7c9ad7827601)
-### 4. Database
+### 4. Database (SQL Server)
 ![image](https://github.com/trunghoang2002/pbl3/assets/75106240/48742a40-3447-4d2d-a69d-61737d4e731b)
 ### 5. GUI
 ![image](https://github.com/trunghoang2002/pbl3/assets/75106240/5c50e3ca-fd19-4fde-9bfa-af8a25fc9456)
