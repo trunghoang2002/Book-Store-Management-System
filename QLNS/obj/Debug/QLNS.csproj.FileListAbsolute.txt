@@ -1,0 +1,110 @@
+D:\PBL3\QLBS_CODE\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\PBL3\QLBS_CODE\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\PBL3\QLBS_CODE\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\PBL3\QLBS_CODE\QLNS\QLNS\bin\Debug\FontAwesome.Sharp.dll
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.FormUser.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.exe.licenses
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.CustomTextBox.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.DetailBill.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.FormManagementBill.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.FormBill.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.EditBill.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.AddBookForBill.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.FormRevenue.resources
+D:\PBL3\QLBS_CODE\QLNS\QLNS\obj\Debug\QLNS.FormSalePerson.resources
+E:\source\repos\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\source\repos\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\source\repos\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\source\repos\QLNS\QLNS\bin\Debug\FontAwesome.Sharp.dll
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.CustomTextBox.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.pdb
+E:\source\repos\QLNS\QLNS\bin\Debug\EntityFramework.dll
+E:\source\repos\QLNS\QLNS\bin\Debug\EntityFramework.SqlServer.dll
+E:\source\repos\QLNS\QLNS\bin\Debug\EntityFramework.xml
+E:\source\repos\QLNS\QLNS\bin\Debug\EntityFramework.SqlServer.xml
+E:\source\repos\QLNS\QLNS\bin\Debug\Aspose.Words.dll
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormAdmin.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormSalePerson.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormStocker.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBook.AddEditBook.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBook.FormBook.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDiscount.AddBookDiscount.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDiscount.FormDiscount.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryBook.AddBookForEntry.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryBook.FormEntryBook.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryDiary.EntryDiaryBook.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewExpense.FormExpense.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewLogin.FormLogin.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewManagerBill.FormManagementBill.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBill.FormBill.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewRevenueAdmin.FormRevenueAdmin.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewRevenue.FormRevenue.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUserAccount.AddUserAccount.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUserAccount.FormUserAccount.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.ChangePassword.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.EditInforUser.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.FormUser.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBill.AddBookForBill.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewWareHouseStocker.FormWarehouseStocker.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewWarehouse.FormWarehouse.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewManagerBill.DetailBill.resources
+E:\source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryDiary.DetailEntryBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\QLNS.exe.config
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\QLNS.exe
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\QLNS.pdb
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\Aspose.Words.dll
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\EntityFramework.dll
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\EntityFramework.SqlServer.dll
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\FontAwesome.Sharp.dll
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\EntityFramework.xml
+E:\Visual Studio Source\repos\QLNS\QLNS\bin\Debug\EntityFramework.SqlServer.xml
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.CustomTextBox.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormAdmin.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormSalePerson.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDashboard.FormStocker.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBook.AddEditBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBook.FormBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDiscount.AddBookDiscount.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewDiscount.FormDiscount.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryBook.AddBookForEntry.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryBook.FormEntryBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryDiary.DetailEntryBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewEntryDiary.EntryDiaryBook.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewExpense.FormExpense.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewLogin.FormLogin.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewManagerBill.DetailBill.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewManagerBill.FormManagementBill.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBill.FormBill.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewRevenueAdmin.FormRevenueAdmin.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewRevenue.FormRevenue.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUserAccount.AddUserAccount.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUserAccount.FormUserAccount.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.ChangePassword.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.EditInforUser.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewUser.FormUser.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewBill.AddBookForBill.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewWareHouseStocker.FormWarehouseStocker.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.Views.ViewWarehouse.FormWarehouse.resources
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.csproj.CopyComplete
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.exe
+E:\Visual Studio Source\repos\QLNS\QLNS\obj\Debug\QLNS.pdb
