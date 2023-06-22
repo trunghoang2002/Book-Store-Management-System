@@ -1,7 +1,7 @@
 # PBL3: Book Store Management System
 
 ### 1. Description ###
-This project aims to develop a comprehensive software solution for efficiently managing the operations of a book store. The system is built using C# programming language and Windows Forms framework, providing a user-friendly interface for easy navigation and interaction.
+This project aims to develop a comprehensive software solution for efficiently managing the operations of a book store. The system is built using C# programming language and .NET framework, providing a user-friendly interface for easy navigation and interaction.
 
 ### 2. Key Objectives
 1. User Management
